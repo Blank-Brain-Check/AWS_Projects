@@ -1,4 +1,4 @@
-Dashboards are proven and effective ways to portray our data. AWS has also got a product that can provide a dashboard from the data hosted in its S3 bucket. I followed Lucy Wang (@techwithlucy is her youtube channel) to learn about this fantastic service from AWS.
+Dashboards are proven and effective ways to portray our data. AWS has also got a product that can provide a dashboard from the data hosted in its S3 bucket.
 
 ![Data vis diagram ](https://github.com/Blank-Brain-Check/AWS_Projects/assets/115382592/b1f7c55a-a6ab-404a-b3a0-cd6fb5b2b5ae)
 
