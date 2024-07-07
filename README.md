@@ -90,8 +90,6 @@ Step 14: From the list on the left, you can always do a drag-and-drop to create 
 
 • You can now use the dropdown to do some sorting work for the arrangement as needed and the options on the right for activities like saving the dashboard etc.
 
+Most Popular Brands Chart:
 
-
-
-
-
+![Most Popular Brands ](https://github.com/Blank-Brain-Check/AWS_Projects/assets/115382592/12efda17-5860-40eb-b2d3-60b47c6ef7d4)
